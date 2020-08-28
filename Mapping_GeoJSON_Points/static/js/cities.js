@@ -24,16 +24,9 @@ let cities = [{
     population: 3990456
   },
   {
-    location: [41.2565, -95.9345],
-    city: "Omaha",
-    state: "NB",
-    population: 975454
-  },
-  {
-    location: [28.5383, -81.3792],
-    city: "Orlando",
-    state: "FL",
-    population: 285713,
-    attractions: "Disney World, Gatorland"
+    location: [33.4484, -112.0740],
+    city: "Phoenix",
+    state: "AZ",
+    population: 1660272
   }
   ];
